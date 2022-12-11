@@ -5,7 +5,9 @@ made by Marco
 
 How to play
 
-Simply put token on the column. similar to connect four.
+Simply put token on the column by inputing number of the column.
+
+The token will be 1 for player 1 and 2 for player 2.
 
 The token will fall into the lowest level!
 
